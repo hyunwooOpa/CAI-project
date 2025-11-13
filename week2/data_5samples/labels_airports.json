@@ -1,0 +1,115 @@
+[
+  {
+    "target": true,
+    "knowledge": [
+      {
+        "domain": "airports",
+        "entity_id": 0,
+        "doc_type": "review",
+        "doc_id": 2,
+        "sent_id": 0
+      },
+      {
+        "domain": "airports",
+        "entity_id": 0,
+        "doc_type": "review",
+        "doc_id": 0,
+        "sent_id": 1
+      },
+      {
+        "domain": "airports",
+        "entity_id": 0,
+        "doc_type": "review",
+        "doc_id": 1,
+        "sent_id": 1
+      }
+    ],
+    "response": "SFO is noted for being very modern, especially Harvey Milk Terminal 1. Guests also mention the terminals are clean and there are play areas for kids."
+  },
+  {
+    "target": true,
+    "knowledge": [
+      {
+        "domain": "airports",
+        "entity_id": 0,
+        "doc_type": "review",
+        "doc_id": 2,
+        "sent_id": 3
+      }
+    ],
+    "response": "One major complaint about SFO is that the parking is very expensive, even in the long-term lots."
+  },
+  {
+    "target": true,
+    "knowledge": [
+      {
+        "domain": "airports",
+        "entity_id": 1,
+        "doc_type": "review",
+        "doc_id": 0,
+        "sent_id": 1
+      },
+      {
+        "domain": "airports",
+        "entity_id": 1,
+        "doc_type": "review",
+        "doc_id": 0,
+        "sent_id": 2
+      },
+      {
+        "domain": "airports",
+        "entity_id": 1,
+        "doc_type": "review",
+        "doc_id": 1,
+        "sent_id": 2
+      }
+    ],
+    "response": "Travelers find LAX to be very chaotic. The traffic in the central loop is terrible, and getting to the ride-share pickup lot requires a confusing and crowded shuttle."
+  },
+  {
+    "target": true,
+    "knowledge": [
+      {
+        "domain": "airports",
+        "entity_id": 2,
+        "doc_type": "review",
+        "doc_id": 1,
+        "sent_id": 1
+      },
+      {
+        "domain": "airports",
+        "entity_id": 2,
+        "doc_type": "review",
+        "doc_id": 1,
+        "sent_id": 2
+      }
+    ],
+    "response": "At JFK, the experience can vary greatly by terminal. For example, Terminal 5 is bright and has great food, while Terminal 7 is often described as old, cramped, and having poor food options."
+  },
+  {
+    "target": true,
+    "knowledge": [
+      {
+        "domain": "airports",
+        "entity_id": 3,
+        "doc_type": "review",
+        "doc_id": 0,
+        "sent_id": 1
+      },
+      {
+        "domain": "airports",
+        "entity_id": 3,
+        "doc_type": "review",
+        "doc_id": 1,
+        "sent_id": 1
+      },
+      {
+        "domain": "airports",
+        "entity_id": 3,
+        "doc_type": "faq",
+        "doc_id": 0
+      }
+    ],
+    "response": "ATL is considered very efficient for its size. You can use the Plane Train, which is an automated train that runs underground, to quickly get between all concourses."
+  }
+]

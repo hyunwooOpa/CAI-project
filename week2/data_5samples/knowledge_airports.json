@@ -1,0 +1,237 @@
+{
+  "airports": {
+    "0": {
+      "name": "San Francisco International Airport (SFO)",
+      "reviews": {
+        "0": {
+          "traveler_type": "Business travelers",
+          "sentences": {
+            "0": "SFO is my preferred airport on the West Coast.",
+            "1": "The new Harvey Milk Terminal 1 is stunning and has great local food options, a huge step up from the old terminal.",
+            "2": "Security with Clear and PreCheck is usually very fast.",
+            "3": "The AirTrain is efficient for getting to the BART station or the rental car center."
+          }
+        },
+        "1": {
+          "traveler_type": "Families",
+          "sentences": {
+            "0": "We traveled with two young kids, and SFO was surprisingly family-friendly.",
+            "1": "There are kids' play areas in several terminals which was a lifesaver during our delay.",
+            "2": "The food court in the international terminal had something for everyone.",
+            "3": "However, the walk from domestic to the international terminal G-gates was very long."
+          }
+        },
+        "2": {
+          "traveler_type": "Solo travelers",
+          "sentences": {
+            "0": "I was impressed by the cleanliness and the art exhibits throughout the terminals.",
+            "1": "It makes for a much more pleasant walking experience.",
+            "2": "Free Wi-Fi was fast and reliable for streaming.",
+            "3": "My only complaint is how expensive parking is, even in the long-term lot."
+          }
+        }
+      },
+      "faqs": {
+        "0": {
+          "question": "Is there free Wi-Fi at SFO?",
+          "answer": "Yes, SFO provides free, unlimited Wi-Fi access throughout all terminals."
+        },
+        "1": {
+          "question": "How can I get between terminals?",
+          "answer": "You can use the SFO AirTrain, a free automated people mover. It connects all terminals, terminal garages, the rental car center, and the SFO BART station."
+        },
+        "2": {
+          "question": "Where can I park at SFO?",
+          "answer": "SFO offers Domestic, International, and Long-Term parking. The Domestic and International garages are for short-term stays, while the Long-Term lot offers a free shuttle to the terminals."
+        },
+        "3": {
+          "question": "Are there pet relief areas?",
+          "answer": "Yes, SFO has pet relief areas located in every terminal, both pre- and post-security."
+        }
+      }
+    },
+    "1": {
+      "name": "Los Angeles International Airport (LAX)",
+      "reviews": {
+        "0": {
+          "traveler_type": "Couples",
+          "sentences": {
+            "0": "LAX is just as chaotic as everyone says.",
+            "1": "The traffic getting into the central terminal loop was terrible.",
+            "2": "Getting to the 'LAX-it' lot for our Uber was confusing and required a crowded shuttle bus.",
+            "3": "Once inside, the Tom Bradley International Terminal was modern and had great food, but our domestic terminal was old and crowded."
+          }
+        },
+        "1": {
+          "traveler_type": "Solo travelers",
+          "sentences": {
+            "0": "I connect through LAX often.",
+            "1": "My advice is to leave plenty of time for connections; walking from Terminal 4 to Terminal 7 was a hike, though it's nice you can do it post-security now.",
+            "2": "The construction is ongoing and makes navigation difficult.",
+            "3": "The airline lounges are my only escape from the crowds."
+          }
+        },
+        "2": {
+          "traveler_type": "Business travelers",
+          "sentences": {
+            "0": "Dropped my rental car and had to wait 20 minutes for a shuttle to the terminals.",
+            "1": "Security lines were extremely long, even the priority line.",
+            "2": "The Wi-Fi was slow and kept dropping, which is frustrating when trying to get work done.",
+            "3": "LAX is functional, but rarely a pleasant experience."
+          }
+        }
+      },
+      "faqs": {
+        "0": {
+          "question": "How do I get a ride-share like Uber or Lyft?",
+          "answer": "You must take a free 'LAX-it' shuttle from the terminal curbside (lower/arrivals level) to the designated ride-share pickup lot. You cannot be picked up at the terminal."
+        },
+        "1": {
+          "question": "How do I get between terminals at LAX?",
+          "answer": "You can walk, or use the free 'Airline Connections' shuttle bus that runs in a loop around the central terminal area."
+        },
+        "2": {
+          "question": "Is there a place to wait for arriving passengers?",
+          "answer": "Yes, LAX has a free 24/7 cell phone waiting lot where you can wait in your car until your party is ready for pickup at the arrivals curb."
+        }
+      }
+    },
+    "2": {
+      "name": "John F. Kennedy International Airport (JFK)",
+      "reviews": {
+        "0": {
+          "traveler_type": "International travelers",
+          "sentences": {
+            "0": "Landing at JFK was a nightmare.",
+            "1": "The immigration hall in Terminal 4 was massive and the line took over an hour.",
+            "2": "Finding the AirTrain to get to Terminal 8 for my connection was poorly signed.",
+            "3": "The $8 fee for the AirTrain just to get to the subway station is also a rip-off."
+          }
+        },
+        "1": {
+          "traveler_type": "Solo travelers",
+          "sentences": {
+            "0": "My experience really depends on the terminal.",
+            "1": "Terminal 5 (JetBlue) is bright, clean, and has great food options.",
+            "2": "Terminal 7, on the other hand, felt old, cramped, and had almost nothing to eat past security.",
+            "3": "The new Terminal 1 looks like it will be nice, but for now, it's a mixed bag."
+          }
+        },
+        "2": {
+          "traveler_type": "Families",
+          "sentences": {
+            "0": "Getting from the city to JFK on the LIRR and AirTrain was fast and easy, much better than sitting in traffic.",
+            "1": "Our airline's check-in was smooth and the staff were helpful with our stroller.",
+            "2": "We found decent seating by our gate, but the bathrooms needed to be cleaned."
+          }
+        }
+      },
+      "faqs": {
+        "0": {
+          "question": "How do I get from JFK to Manhattan?",
+          "answer": "You can take the AirTrain ($8 fee) to Jamaica Station for the LIRR (Long Island Rail Road) or the E, J, Z subway lines. You can also take it to Howard Beach for the A subway line. Taxis and ride-shares are also available."
+        },
+        "1": {
+          "question": "Is the AirTrain free?",
+          "answer": "The AirTrain is free for travel *between* terminals. You must pay an $8 fee to exit or enter at Jamaica or Howard Beach stations."
+        },
+        "2": {
+          "question": "Does JFK have baggage storage?",
+          "answer": "Yes, baggage storage (left luggage) services are available in Terminal 1, Terminal 4, and Terminal 8 for a fee."
+        }
+      }
+    },
+    "3": {
+      "name": "Hartsfield-Jackson Atlanta International Airport (ATL)",
+      "reviews": {
+        "0": {
+          "traveler_type": "Business travelers",
+          "sentences": {
+            "0": "ATL is a model of efficiency for its size.",
+            "1": "The Plane Train that runs between all concourses is incredibly fast and frequent; I can get from T-gates to F-gates in 10 minutes.",
+            "2": "Security can be a nightmare, but the new digital screening at the main checkpoint helps.",
+            "3": "The Delta Sky Clubs are always packed."
+          }
+        },
+        "1": {
+          "traveler_type": "Solo travelers",
+          "sentences": {
+            "0": "This airport is enormous, you will do a lot of walking.",
+            "1": "The variety of food and shops is excellent, especially in Concourse E and F.",
+            "2": "I found the signage to be clear and it was easy to find my connecting gate.",
+            "3": "The free Wi-Fi was fast enough for me to work."
+          }
+        },
+        "2": {
+          "traveler_type": "Families",
+          "sentences": {
+            "0": "We had a connection here and it was stressful.",
+            "1": "We had to take the Plane Train with all our carry-ons and a stroller, which was crowded.",
+            "2": "The moving walkways in the concourses were helpful, but many were broken.",
+            "3": "The food court was chaotic, and it was hard to find seating for our family."
+          }
+        }
+      },
+      "faqs": {
+        "0": {
+          "question": "How do I get between concourses at ATL?",
+          "answer": "You can use the Plane Train, an automated train that runs underground and connects all concourses (T, A, B, C, D, E, F) and the main terminal. You can also walk between concourses via the Transportation Mall."
+        },
+        "1": {
+          "question": "How do I get to the rental car center?",
+          "answer": "You must take the ATL SkyTrain, which is a separate train from the Plane Train. It is free and operates from the main terminal, connecting to the GICC and the Rental Car Center."
+        },
+        "2": {
+          "question": "Are there smoking areas inside the airport?",
+          "answer": "No, ATL is a smoke-free facility. Smoking is only permitted in designated areas outside the terminals."
+        }
+      }
+    },
+    "4": {
+      "name": "London Heathrow Airport (LHR)",
+      "reviews": {
+        "0": {
+          "traveler_type": "International travelers",
+          "sentences": {
+            "0": "Terminal 5 is fantastic for British Airways, very modern and efficient.",
+            "1": "The automated passport e-gates for UK/EU citizens were very fast.",
+            "2": "Duty-free shopping is extensive, probably the best I've seen.",
+            "3": "The Heathrow Express train is fast to London, but very expensive."
+          }
+        },
+        "1": {
+          "traveler_type": "Couples",
+          "sentences": {
+            "0": "Connecting between terminals was a hassle.",
+            "1": "We landed in Terminal 3 and had to take a bus to Terminal 5, which required going through security again.",
+            "2": "The lines for security were long and confusing.",
+            "3": "The staff were not very helpful, just shouting at people to form lines."
+          }
+        },
+        "2": {
+          "traveler_type": "Solo travelers",
+          "sentences": {
+            "0": "I took the Piccadilly Line (the Tube) to Heathrow to save money, and it was easy and cheap, though it took about an hour from central London.",
+            "1_": "The airport itself is well-organized with plenty of food and drink options.",
+            "2": "Wi-Fi was free and worked well.",
+            "3": "Boarding was orderly and on time."
+          }
+        }
+      },
+      "faqs": {
+        "0": {
+          "question": "How can I claim my VAT refund?",
+          "answer": "VAT refund desks are located in all terminals, usually after security. You must present your completed VAT refund forms, receipts, and the goods you purchased to customs."
+        },
+        "1": {
+          "question": "How do I get from Heathrow to central London?",
+          "answer": "You have several options: the Heathrow Express train (fastest, most expensive), the Tfl Rail (slower, cheaper train), the London Underground (Piccadilly Line, cheapest), or by coach (bus) or taxi/ride-share."
+        },
+        "2": {
+          "question": "Is there baggage storage at LHR?",
+          "answer": "Yes, left luggage facilities are available in all terminals for a fee. You can store bags for a few hours or several days."
+        }
+      }
+    }
+  }
+}

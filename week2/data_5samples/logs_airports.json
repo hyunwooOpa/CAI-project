@@ -1,0 +1,112 @@
+[
+  [
+    {
+      "speaker": "U",
+      "text": "What's SFO like? I'm flying there with my family."
+    },
+    {
+      "speaker": "S",
+      "text": "SFO is noted for being very modern, especially Harvey Milk Terminal 1. Guests also mention the terminals are clean and there are play areas for kids."
+    },
+    {
+      "speaker": "U",
+      "text": "That's great to hear. Are the play areas easy to find?"
+    },
+    {
+      "speaker": "S",
+      "text": "Yes, they are located in several terminals post-security. You can find them in Terminal 1, Terminal 2, and the International Terminal G-gates."
+    },
+    {
+      "speaker": "U",
+      "text": "Perfect. What about food options in Terminal 1, any recommendations?"
+    }
+  ],
+  [
+    {
+      "speaker": "U",
+      "text": "I need to drive to SFO. What's the parking situation?"
+    },
+    {
+      "speaker": "S",
+      "text": "One major complaint about SFO is that the parking is very expensive, even in the long-term lots."
+    },
+    {
+      "speaker": "U",
+      "text": "Are there different options? What's the best for a 4-day trip?"
+    },
+    {
+      "speaker": "S",
+      "text": "For a 4-day trip, the Long-Term parking lot is your most economical option. It offers a free shuttle service to the terminals. The Domestic and International garages are closer but will be much more expensive for that length of time."
+    },
+    {
+      "speaker": "U",
+      "text": "Okay, I'll plan for the shuttle. How often does that shuttle run?"
+    }
+  ],
+  [
+    {
+      "speaker": "U",
+      "text": "I've heard LAX is a nightmare. Is it really that bad to get around?"
+    },
+    {
+      "speaker": "S",
+      "text": "Travelers find LAX to be very chaotic. The traffic in the central loop is terrible, and getting to the ride-share pickup lot requires a confusing and crowded shuttle."
+    },
+    {
+      "speaker": "U",
+      "text": "Oh, I was planning to take an Uber. How does that work?"
+    },
+    {
+      "speaker": "S",
+      "text": "You must take a free 'LAX-it' shuttle from the terminal curbside on the arrivals level. It will take you to a separate lot where all ride-shares (like Uber and Lyft) are required to pick up passengers."
+    },
+    {
+      "speaker": "U",
+      "text": "That sounds like a hassle. Is there a specific terminal you'd recommend for food if I have a long connection?"
+    }
+  ],
+  [
+    {
+      "speaker": "U",
+      "text": "I'm flying into JFK. Are the terminals any good?"
+    },
+    {
+      "speaker": "S",
+      "text": "At JFK, the experience can vary greatly by terminal. For example, Terminal 5 is bright and has great food, while Terminal 7 is often described as old, cramped, and having poor food options."
+    },
+    {
+      "speaker": "U",
+      "text": "I'm flying into Terminal 4. What's that one like?"
+    },
+    {
+      "speaker": "S",
+      "text": "Terminal 4 is one of the larger, more modern international terminals. It has good shopping and dining, but the immigration hall can be very crowded with long lines upon arrival."
+    },
+    {
+      "speaker": "U",
+      "text": "An hour? Wow. Is there a good lounge in Terminal 4 I can use?"
+    }
+  ],
+  [
+    {
+      "speaker": "U",
+      "text": "I have a tight connection at ATL. Is it easy to get between concourses?"
+    },
+    {
+      "speaker": "S",
+      "text": "ATL is considered very efficient for its size. You can use the Plane Train, which is an automated train that runs underground, to quickly get between all concourses."
+    },
+    {
+      "speaker": "U",
+      "text": "How often does the train run? I only have 45 minutes."
+    },
+    {
+      "speaker": "S",
+      "text": "The Plane Train runs very frequently, usually arriving every 2 minutes. You should be able to get from the main terminal to the farthest concourse in about 10-15 minutes."
+    },
+    {
+      "speaker": "U",
+      "text": "I'll take the train then. Can you recommend a good place for a quick bite in Concourse E?"
+    }
+  ]
+]
