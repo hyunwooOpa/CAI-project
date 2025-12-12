@@ -1,0 +1,23 @@
+name: langgraph_sim
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11                # Stable version for LangChain
+  - pip
+  - pip:
+    # Core Framework
+    - langchain
+    - langgraph
+    - langchain-community      # Needed for JSONLoader
+    
+    # Model Integrations
+    - langchain-cohere         # Cohere (Command R) integration
+    
+    # Vector Database (RAG)
+    - langchain-chroma         # ChromaDB integration
+    - chromadb                 # The actual database core
+    
+    # Utilities
+    - jq                       # Required by JSONLoader to parse JSON schemas
+    - python-dotenv            # To load API keys from .env
